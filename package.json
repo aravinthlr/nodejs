@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_sample",
+  "version": "1.0.0",
+  "description": "learning node js",
+  "main": "main.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aravinthlr/nodejs.git"
+  },
+  "keywords": [
+    "aravinth",
+    "node"
+  ],
+  "author": "Aravinth",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/aravinthlr/nodejs/issues"
+  },
+  "homepage": "https://github.com/aravinthlr/nodejs#readme"
+}
