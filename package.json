@@ -1,5 +1,5 @@
 {
-  "name": "nodejs_sample",
+  "name": "nodejs_sample_aravinth",
   "version": "1.0.0",
   "description": "learning node js",
   "main": "main.js",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/aravinthlr/nodejs/issues"
   },
-  "homepage": "https://github.com/aravinthlr/nodejs#readme"
+  "homepage": "https://github.com/aravinthlr/nodejs#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
